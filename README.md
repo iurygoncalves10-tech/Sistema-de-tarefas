@@ -26,7 +26,7 @@ Uma aplicação full-stack para gerenciamento de tarefas, desenvolvida com **Fas
 
 ### 1. Clone o repositório
 \\\ash
-git clone https://github.com/seu-usuario/sistema-de-tarefas.git
+git clone https://github.com/iurygoncalves/sistema-de-tarefas.git-tech
 cd sistema-de-tarefas
 \\\
 
